@@ -16,7 +16,6 @@
 
 class Employee {
   // Заповніть модифікатори доступу
-  name: string;
 
   constructor(
     name: string,
